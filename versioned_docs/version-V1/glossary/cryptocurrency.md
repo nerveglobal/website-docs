@@ -1,7 +1,7 @@
 ---
 id: cryptocurreny
 title: Cryptocurrency
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 A digital, global money for our digital future.

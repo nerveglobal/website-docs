@@ -1,20 +1,23 @@
 ---
 id: wallet
-title: Create Wallet
+title: Create Your Wallet
 sidebar_position: 2
 ---
 
-**Please review this portion carefully**
+The Nerve Global wallet is a non-custodial hot wallet built in C++ that is run on the user’s device. Nerve Global has no access to a user’s private keys. The wallet performs ideal gas price discovery for transaction and gives access to the native gas and NERVE token.
 
-After launching the application for the first time, you will be required to choose a 8 digit PIN and generate a new Ethereum wallet or import an existing one per Mnemonic words. 
+:::caution 
+**PLEASE REVIEW THIS PORTION CAREFULLY**
+:::
 
+Once you open the app, you will be prompted to choose an 8 digit PIN to generate a new wallet, or import an existing wallet. 
 
-Once you’ve created a new account by entering your new 8 digit PIN, you will be prompted with the two following:
+If you create a new wallet, you will generate a 12 word secret phrase, which you need to write down and **store somewhere safe**.  If you need to reinstall the app or forget your PIN, you will need to use this secret phrase to recover your existing wallet.  
 
-SCREENSHOT 
+:::danger
+**DO NOT GIVE THIS PHRASE TO ANYONE!**
+:::
 
-**The wallet generation process will give you 12 Mnemonic words that are needed to access your Ethereum wallet and should be written down. If the wallet file is deleted and the words are lost, the funds on the wallet can not be restored!**
+Nerve team members will never ask you for this information.  If you give this information to anyone, you are likely to lose all of your funds.
 
-Once you’re noted your 12 Mnemonic words securely, please select the **XXX**
-
-On each login after creating or importing a wallet, you are only required to type in your chosen PIN to login.
+Follow the on-screen prompts until you see that your wallet has been successfully created.

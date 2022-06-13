@@ -1,7 +1,7 @@
 ---
 id: wallet
 title: Wallets
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 ## The key to your digital future
@@ -49,4 +49,6 @@ Wallets will often give you a seed phrase that you must write down somewhere saf
 
 - Triple check everything
 
+:::caution
 Remember transactions can’t be reversed and wallets can’t be easily recovered so take precautions and always be careful.
+:::

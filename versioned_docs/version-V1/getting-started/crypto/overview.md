@@ -4,16 +4,11 @@ title: Overview
 sidebar_position: 1
 ---
 
-**Where to buy ETH**
+After logging into your wallet, navigate to the wallet history display by clicking on the two arrows in the Navigation Bar at the bottom. Click on the "Receive" button to get your MATIC wallet address.
 
-You can buy ETH from exchanges or from wallets directly.
-Check which services you can use. If you are new to this, please read carefully our [glossary](http://localhost:3000/protocol/glossary/block).
+You can buy MATIC from exchanges or from wallets directly.
+Check which services you can use. If you are new to this, please read carefully our [glossary](https://docs.nerveglobal.com/protocol/glossary/cryptocurreny).
 
-
-After logging into your wallet, navigate to the wallet history display by clicking on the two arrows in the Navigation Bar at the bottom. Click on the "Receive" button to get your Ethereum wallet address.
-
-
-BILD
-
-
-To get Ropsten testnet ehereum: Go to https://faucet.ropsten.be/ or to a Ropsten faucet of your choice and copy your wallet address into the textfield. Click the button to get Ropsten eth until the succeeded message appears.
+:::tip
+Share your wallet address with the community and fulfill tasks to earn MATIC.
+:::

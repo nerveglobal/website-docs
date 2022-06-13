@@ -1,7 +1,7 @@
 ---
 id: exchange
 title: Exchanges
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 
@@ -18,9 +18,9 @@ This means there are fewer geographical restrictions than with centralized alter
 
 You will need a wallet to use a DEX.
 
-
-## All products listed on this page are not official endorsements, and are provided for informational purposes only
-
+:::caution
+All products listed on this page are not official endorsements, and are provided for informational purposes only.
+:::
 
 ## CEX
 
@@ -29,6 +29,8 @@ You will need a wallet to use a DEX.
 - Coinbase
 
 - Kraken
+
+- Binance
 
 ## DEX
 

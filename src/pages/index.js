@@ -30,20 +30,20 @@ export const actions = [
     href: "#",
     icon: InformationCircleIcon,
     to: "./protocol/welcometonerve",
-    text: `Learn about the core concepts of Nerve. Unlimited adventures, bets, and more.`,
+    text: `Learn about the core concepts of Nerve. Unlimited adventures and more.`,
   },
   {
     title: "Getting Started",
     href: "#",
     icon: BookOpenIcon,
     to: "./protocol/getting-started/install",
-    text: `Learn about the architecture of the Nerve smart contracts.`,
+    text: `Learn more about how to get started with Nerve.`,
   },
   {
     title: "Technical",
     href: "#",
     icon: QuestionMarkCircleIcon,
-    to: "./sdk/technical",
+    to: "./sdk/token-economy/abstract",
     text: `Learn about the architecture of Nerve Global´s ecosystem.`,
   },
 ];
@@ -84,7 +84,7 @@ export const Guides = [
   {
     title: "Creating a Task",
     text: "No limits on who you can challenge",
-    to: "./protocol/getting-started/play/tasks",
+    to: "./protocol/play/create-task",
   },
 ];
 
@@ -416,6 +416,7 @@ export default function Home() {
           </div>
         </TwoRow>
 
+{/*
         <hr />
 
         <Row>
@@ -501,6 +502,7 @@ export default function Home() {
             </CenterCard>
           </Link>
         </Row>
+            */}
         {/*<Link
           style={{
             textDecoration: "none",

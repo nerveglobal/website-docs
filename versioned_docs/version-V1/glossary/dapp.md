@@ -1,7 +1,7 @@
 ---
 id: dapp
 title: DApps
-sidebar_position: 6
+sidebar_position: 5
 ---
 
 A decentralized application (dapp) is an application built on a decentralized network that combines a smart contract and a frontend user interface. On Ethereum, smart contracts are accessible and transparent – like open APIs – so your dapp can even include a smart contract that someone else has written.
