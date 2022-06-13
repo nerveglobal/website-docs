@@ -1,7 +1,7 @@
 module.exports = {
   title: "Nerve",
   tagline: "Documentation and Guides",
-  url: "https://docs.nerveglobal.com/", 
+  url: "https://docs.nerveglobal.com", 
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "ignore",

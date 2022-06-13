@@ -1,6 +1,6 @@
 {
   "index_name": "v1-docs",
-  "start_urls": ["https://docs.nerveglobal.com/"],
+  "start_urls": ["https://docs.nerveglobal.com"],
   "sitemap_urls": ["https://docs.nerveglobal.com/sitemap.xml"],
   "sitemap_alternate_links": true,
   "stop_urls": [],
