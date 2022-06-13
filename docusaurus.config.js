@@ -79,11 +79,7 @@ module.exports = {
             {
               label: "#dev-chat",
               href: "https://discord.gg/SGmrgRq9f4",
-            },
-            {
-              label: "Whitepaper",
-              href: "https://nerveglobal.com/whitepaper.pdf",
-            },
+            }
           ],
         },
         {
@@ -108,7 +104,7 @@ module.exports = {
             },
             {
               label: "Brand Assets",
-              href: "https://nerveglobal.com/Nerve_brand_assets.zip",
+              href: "https://github.com/nerveglobal/brand-assets",
             },
           ],
         },
