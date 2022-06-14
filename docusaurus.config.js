@@ -25,35 +25,15 @@ module.exports = {
         src: "img/uni_dark_icon.svg",
       },
       items: [
-        {
-          type: "docsVersionDropdown",
-          //// Optional
-          position: "left",
-          dropdownActiveClassDisabled: true,
-          docsPluginId: "default",
-          className: "persistent",
-        },
          {
-          to: "/protocol/glossary/cryptocurreny",
-          label: "Glossary",
+          to: "/protocol/welcometonerve",
+          label: "Getting Started",
           position: "left",
           className: "V1_active",
         },
         {
           to: "/sdk/token-economy/abstract",
-          label: "Token Economy",
-          position: "left",
-          className: "V1_active",
-        },
-        {
-          to: "/sdk/automated-market-maker",
-          label: "AMM",
-          position: "left",
-          className: "V1_active",
-        },
-        {
-          to: "/sdk/subgraphs/Subgraph%20data",
-          label: "Supbgraph",
+          label: "Technical",
           position: "left",
           className: "V1_active",
         },

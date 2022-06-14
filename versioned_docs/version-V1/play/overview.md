@@ -15,5 +15,5 @@ The Hero can choose to complete the Task while the Timer is active.  Successful 
 There are 2 ways that a Task becomes final—The Timer expires, or all Fans have voted Yes/No.  Once a Task is Final, if the majority of Fans have voted Yes (that the Proof was sufficient based on the specifics of the Task) then the Loot is transferred to the Hero.  If the Vote concludes No, then the Loot is returned to the Fans.
 
 :::info
-Voting is 1 wallet = 1 vote.
+Voting: 1 wallet = 1 vote
 :::
