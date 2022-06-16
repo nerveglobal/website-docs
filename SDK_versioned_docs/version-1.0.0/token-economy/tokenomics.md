@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # Tokenomics
 
-:::note
+:::caution
 The NERVE token carries no governance voting rights, and conveys no ownership in the protocol.
 :::
 
