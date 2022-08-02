@@ -1,7 +1,7 @@
 ---
 id: polygon-matic
 title: Polygon/Matic
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 ## Buy with traditional currencies
@@ -10,7 +10,7 @@ Buy MATIC with traditional payment types directly from sellers:
 
 
 - Localcryptos
-- Boinbase
+- Coinbase
 - Kraken
 - Binance
 

@@ -82,9 +82,9 @@ export const Guides = [
     to: "./protocol/getting-started/username",
   },
   {
-    title: "Creating a Task",
+    title: "Creating a Dare",
     text: "No limits on who you can challenge",
-    to: "./protocol/play/create-task",
+    to: "./protocol/play/create-dare",
   },
 ];
 

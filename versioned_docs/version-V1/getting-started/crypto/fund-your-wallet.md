@@ -1,6 +1,6 @@
 ---
-id: overview
-title: Overview
+id: fund-your-wallet
+title: Fund your wallet
 sidebar_position: 1
 ---
 

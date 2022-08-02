@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Nerve is a global marketplace for content consumers and content creators.  It is the first peer to peer crowdfunding application that lets the audience decide on the content and enhances revenues for creators.
 
-The Nerve app gives users the ability to pool cryptocurrency and attach it to a task they want to see executed by their favorite content creator (or anyone else). 
+The Nerve app gives users the ability to pool cryptocurrency and attach it to a dare they want to see executed by their favorite content creator (or anyone else). 
 
 The use of blockchain technology within the app ensures we are committed to the following virtues:
 

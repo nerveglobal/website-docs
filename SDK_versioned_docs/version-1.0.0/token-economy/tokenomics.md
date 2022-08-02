@@ -13,14 +13,14 @@ The NERVE token is an extended ERC-20 token based on the Ethereum blockchain. Th
 
 The total supply of NERVE is fixed and is indefinitely locked into the internal [AMM](https://docs.nerveglobal.com/sdk/automated-market-maker) liquidity pool on the Token Generation Event. The emission rate is based solely on usage of the protocol and directly proportional to collected fees. None of the Team, Presale Investors or DAO allocation buckets receive any NERVE tokens in advance. Rather, they only receive NERVE token when NERVE is minted from collection of fees from use of the app.
 
-In the process of creating a task, 5.00% fee is deducted from the initial stake, which on the one hand benefits the community and on the other hand counteracts possible attack scenarios. The initial stake of the task creator is obligatory for all further participants as a minimum stake. 
+In the process of creating a dare, 5.00% fee is deducted from the initial stake, which on the one hand benefits the community and on the other hand counteracts possible attack scenarios. The initial stake of the dare creator is obligatory for all further participants as a minimum stake. 
 The fee of 5.00% also exists here.
 
-**Two final scenarios will be created for each task**:
+**Two final scenarios will be created for each dare**:
 
-- The task is scored Negative by the majority. In this outcome, all participants, as well as the creator of the task, will receive their stake back. The previously collected fee is not returned.
+- The dare is scored Negative by the majority. In this outcome, all participants, as well as the creator of the dare, will receive their stake back. The previously collected fee is not returned.
 
-- The task is evaluated positively by the majority. In this outcome, the creator of the task receives 95.00% of the total stake. 5.00% will go to the NexusBurn (see below).
+- The dare is evaluated positively by the majority. In this outcome, the creator of the dare receives 95.00% of the total stake. 5.00% will go to the NexusBurn (see below).
 
 ## Fees
 :::note
