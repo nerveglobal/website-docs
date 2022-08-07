@@ -1,10 +1,10 @@
 ---
 id: join-dare
-title: Join/Support a Task (The Fan)
+title: Join a Dare (The Watcher)
 sidebar_position: 3
 ---
 
-1. Visit another user’s profile or go to the “Global Feed”.
+1. Visit another user’s profile via the "Search" tab or go to the “Global Feed”.
 
 2. Find an existing dare and click the “Join” button.
 
