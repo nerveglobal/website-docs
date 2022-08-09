@@ -17,7 +17,7 @@ More on gas fees [here](https://ethereum.org/en/developers/docs/gas).
 
 :::tip
 **Monitor gas prices, so you can send your transaction for less:**
-
+:::
 **High Gas Fee - Red**
 
 ![High Gas Fee](/img/txfeered.png)
@@ -29,4 +29,3 @@ More on gas fees [here](https://ethereum.org/en/developers/docs/gas).
 **Low Gas Fee - Green**
 
 ![Low Gas Fee](/img/txfeewhite.png)
-:::

@@ -1,7 +1,7 @@
 ---
 id: deeplink
 title: Profile Link
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 Press and hold your username in your dashboard for a second and you will automatically copy your deep link to your clipboard. With your own profile link, you can now send your network directly to your Nerve profile.

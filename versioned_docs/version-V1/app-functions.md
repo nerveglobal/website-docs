@@ -5,12 +5,13 @@ sidebar_position: 4
 ---
 
 ## Global Feed
-The Global Feed displays the most active tasks ranked by value. It is the best place to discover popular Heroes and to become a Fan. Visit History to find the most valuable tasks of the current season and watch their proof videos.
+The Global Feed displays the most active tasks ranked by value. It is the best place to discover popular Players and to become a Fan. Visit History to find the most valuable tasks of the current season and watch their proof videos.
 
 ## Search
 Use the Search to add and save other users’ profiles by searching for their name or wallet address. You can also find the rankings of the current season in this tab.
-Active Tasks
-This tab displays all current and past tasks you have participated in as a Host or Fan.
+
+## Active
+This tab displays all current and past dares you have participated in.
 
 ## Wallet
 Your wallet shows your current MATIC and NERVE balances and transaction histories. Use this tab to send or receive tokens. You can also directly sell your NERVE tokens from here.

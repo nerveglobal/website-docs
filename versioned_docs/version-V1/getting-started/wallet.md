@@ -1,7 +1,7 @@
 ---
 id: wallet
 title: Create Your Wallet
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 The Nerve Global wallet is a non-custodial hot wallet built in C++ that is run on the user’s device. Nerve Global has no access to a user’s private keys. The wallet performs ideal gas price discovery for transaction and gives access to the native gas and NERVE token.

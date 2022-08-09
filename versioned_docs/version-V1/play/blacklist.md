@@ -6,10 +6,10 @@ sidebar_position: 5
 
 It is possible to ban a user from your profile, should you consider the dares to be
 
-1. Violent
-2. Dangerous
-3. Spam
-4. Sexism
+- violent
+- dangerous
+- spam
+- sexism
 
 or similar.
 
